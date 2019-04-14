@@ -1,2 +1,2 @@
 # shadowsocksr-bbr
-SSR
+SSR Server
